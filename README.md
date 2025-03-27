@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,8 +12,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
+
 
 ## Overview
 
@@ -24,19 +23,17 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Cegt25/recipePage
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
-CSS Flexbox
+- CSS Flexbox
 - CSS Grid
 - CSS Animations
 - HTML Links
 - HTML Semantic Elements
-- among others
+- Among Others
 
 ### What I learned
 
@@ -73,9 +70,3 @@ To see how you can add code snippets, see below:
 - Carlos Gonzalez
 - Frontend Mentor - [@Cegt25](https://www.frontendmentor.io/profile/Cegt25)
 - Twitter - [@cegt25](https://www.twitter.com/cegt25)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
